@@ -27,6 +27,6 @@ public class BeautifulArray {
 
     public static void main(String[] args) {
         System.out.println(beautifulArray(5));
-        System.out.println("Лена лучший препод!");
+        System.out.println("Лена лучший препод!!!!!");
     }
 }
